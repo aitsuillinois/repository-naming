@@ -44,3 +44,7 @@ Examples: **scripts-db, scripts-sqlserver, scripts-kafka**
 ***
 ### Use 'product' as prefix for repositories containing artifacts for vended products
 Examples: **product-midpoint, product-banner, product-siteminder**
+
+***
+### Use 'temp' as prefix for repositories that are used for sandbox purposes
+Examples: **temp-issues-testing, temp-banner**
