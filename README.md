@@ -6,6 +6,10 @@ Here are some suggested guidelines on how to create repository names that are de
 Repository names should be use *lower case* letters and be delimited by *dashes*
 
 ***
+### Append 'archived-' as prefix for archived/decommissioned repositories
+Example: **archived-proj-xyz**
+
+***
 ### Use 'src' as prefix for source code repositories
 
 src-&lt;language>-&lt;functional area: optional>-&lt;project name>
